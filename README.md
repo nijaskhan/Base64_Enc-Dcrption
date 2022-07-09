@@ -8,8 +8,14 @@ running this code in powershell using python3 {version - python3.10}
 
 
 If we have to use this code in WITHOUT PYTHON , Then we have to compile the code using NUITKA software.
-or if we have python then can compile it by using PYINSTALLER. command to install PYINSTALLER : 'pip install pyinstaller'
+or if we have python then can compile it by using PYINSTALLER. 
 
+PYINSTALLER COMPILER 
+COMMAND to install PYINSTALLER :
+
+   " pip install pyinstaller "
+   
+   
 Below shown the screenshot of compiled code,
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/92925838/178112351-00c8c339-fa67-457f-93a9-725c0c55bba9.png)
