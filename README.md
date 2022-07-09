@@ -1,4 +1,4 @@
-Can ECRYPT OR DECRYPT OFFLINE anything easily and offline using this code. We can run this as .exe For running this as .exe we need to decompile this python script with 'nuitka' software. this video has the information you needed to install nuitka and decompile : " https://www.youtube.com/watch?v=Yq3Qrm1CtQ0 "
+Can ENCRYPT OR DECRYPT OFFLINE anything easily and offline using this code. We can run this as .exe For running this as .exe we need to decompile this python script with 'nuitka' software. this video has the information you needed to install nuitka and decompile : " https://www.youtube.com/watch?v=Yq3Qrm1CtQ0 "
 
 running this code in powershell using python3 {version - python3.10}
 
