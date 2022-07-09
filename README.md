@@ -2,6 +2,8 @@ Can ENCRYPT OR DECRYPT OFFLINE anything easily and offline using this code. We c
 
 running this code in powershell using python3 {version - python3.10}
 
+python3 base64_code.py
+
 ![Screenshot (3)](https://user-images.githubusercontent.com/92925838/178112338-d20a3b24-7376-4f2e-986e-952a63ed341c.png)
 ![Screenshot (4)](https://user-images.githubusercontent.com/92925838/178112343-06d2592b-320a-4f9d-84cc-e2acac7552ae.png)
 
